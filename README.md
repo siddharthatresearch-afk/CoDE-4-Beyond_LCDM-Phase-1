@@ -249,3 +249,10 @@ Development is actively ongoing, and the framework is expected to receive substa
 
 
 The current release should therefore be considered an evolving exploratory research framework rather than a finalized cosmological model.
+
+
+
+
+
+
+## Upcoming Update(in 24 hours) on JADES-GS-z14-0
