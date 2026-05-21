@@ -246,4 +246,5 @@ The purpose of the project is to investigate whether mild expansion-history modi
 
 Development is actively ongoing, and the framework is expected to receive substantial updates during this period.
 
+
 The current release should therefore be considered an evolving exploratory research framework rather than a finalized cosmological model.
