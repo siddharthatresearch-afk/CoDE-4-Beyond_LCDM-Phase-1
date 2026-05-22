@@ -255,4 +255,3 @@ The current release should therefore be considered an evolving exploratory resea
 
 
 
-## Upcoming Update(in 24 hours) on JADES-GS-z14-0
